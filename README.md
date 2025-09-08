@@ -1,4 +1,4 @@
-# Titles WordCloud 
+# Titles WordCloud
 
 Generate a word cloud from a collection of titles.
 
