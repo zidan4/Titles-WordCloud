@@ -2,7 +2,7 @@
 
 Generate a word cloud from a collection of titles.
 
-## Features
+## Features 
 
 - Extracts words from titles
 - Visualizes word frequency as a word cloud
