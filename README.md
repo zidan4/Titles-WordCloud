@@ -1,7 +1,7 @@
 # Titles WordCloud
 
 Generate a word cloud from a collection of titles.
-
+ 
 ## Features
 
 - Extracts words from titles
