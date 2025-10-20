@@ -8,7 +8,7 @@ Generate a word cloud from a collection of titles.
 - Visualizes word frequency as a word cloud
 - Customizable appearance
 
-## Installation
+## Installation 
 
 ```bash
 git clone https://github.com/zidan4/titles-wordcloud.git
