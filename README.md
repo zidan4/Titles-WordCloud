@@ -16,7 +16,7 @@ cd titles-wordcloud
 pip install -r requirements.txt
 ```
 
-## Usage
+## Usage 
 
 1. Prepare a file with your titles (one per line).
 2. Run the script:
