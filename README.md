@@ -1,6 +1,6 @@
 # Titles WordCloud
 
-Generate a word cloud from a collection of titles.
+Generate a word cloud from a collection of titles. 
  
 ## Features
 
